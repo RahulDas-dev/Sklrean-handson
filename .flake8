@@ -2,6 +2,7 @@
 ignore = D103, D401, PT009, E731, C901
 exclude = .git,
         .github,
+        doc
         .venv,
         .vscode,
         __pycache__,
